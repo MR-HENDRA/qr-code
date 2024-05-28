@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008027070417",
+    "project_id": "scan-ki",
+    "storage_bucket": "scan-ki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008027070417:android:5da75af9be07d177447af0",
+        "android_client_info": {
+          "package_name": "com.example.qrcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoF64IBQwUQJ6sqmDmSm9Mb22rt1f9aCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
